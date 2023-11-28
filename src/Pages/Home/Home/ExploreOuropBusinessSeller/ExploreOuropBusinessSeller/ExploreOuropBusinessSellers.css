@@ -1,0 +1,4 @@
+.explore_Our_Top_Business_Seller_grid_setup{
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+}

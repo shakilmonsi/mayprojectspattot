@@ -1,0 +1,4 @@
+.grid_colams_promoter_cards{
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+}

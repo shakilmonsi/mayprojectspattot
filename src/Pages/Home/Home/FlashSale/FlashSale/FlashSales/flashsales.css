@@ -1,0 +1,77 @@
+.grid_flashsalesData_grid_setup{
+        display: grid;
+        grid-template-columns: repeat(6,1fr);
+}
+.plashsale_text_style_setup{
+
+        color: #F85606;
+font-family: Inter;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+color: #F85606;
+font-family: "Oleo Script";
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+justify-items: center;
+
+}
+.plashsale_days_in_src_text_style{
+        width: 55px;
+        height: 58px;
+        flex-shrink: 0;
+        border-radius: 10px;
+background: #F85606;
+
+
+}
+
+
+.text_code_number{
+        color: #FFF;
+font-family: "Inter";
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+color: #FFFFFF;
+
+}
+.text_titele_style_dignit_text{
+        color: #FFF;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.colon_style{
+        color: #F85606;
+font-family: Inter;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+.electronics_text_style{
+        color: #F85606;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.colthing_sports_tous_text_style{
+        color: #000;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}

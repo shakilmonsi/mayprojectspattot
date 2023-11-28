@@ -1,0 +1,68 @@
+.setup_subsribeForuptades-_style{
+ 
+   height: 180px;
+   flex-shrink: 0;
+   width: 1920px;
+height: 180px;
+flex-shrink: 0;
+}
+
+.subcribe_for_update_text_styl{
+ 
+
+/* 36 semi */
+font-family: "inter";
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+color: #FFFFFF;
+}
+.exclusibe_early_text_style{
+   
+
+/* 16 reg */
+font-family: "inter";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+color: #FFFFFF;
+}
+.input_fild_setyp_and_style{
+   display: flex;
+width: 493px;
+padding-left: 0px;
+justify-content: space-between;
+align-items: center;
+
+}
+.subscription_button_setup_style{
+   display: flex;
+padding: 18.5px 30px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+   border-radius: 0px 6px 6px 0px;
+background: var(--Black, #2A2A2A);
+}
+.Subscribe_text_style{
+   color: var(--White, #FFF);
+
+
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.agree_to_receive_text-style{
+   color: #FFF;
+
+/* 14 reg */
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

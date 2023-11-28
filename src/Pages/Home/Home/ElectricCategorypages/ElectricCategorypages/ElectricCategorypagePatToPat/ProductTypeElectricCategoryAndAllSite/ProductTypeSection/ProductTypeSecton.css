@@ -1,0 +1,22 @@
+.all_types_text {
+    color: var(--Black, #2A2A2A);
+
+/* 12 semi */
+font-family: "Inter";
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: 12px;
+}
+.physial_digital_style{
+    color: rgba(42, 42, 42, 0.90);
+
+/* 12 reg */
+font-family: "Inter";
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 12px;
+}

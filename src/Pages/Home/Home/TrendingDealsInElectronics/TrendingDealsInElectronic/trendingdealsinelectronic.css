@@ -1,0 +1,8 @@
+.tanding_product_card_setup {
+        width: 266px;
+        height: 313px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        background: #FFF;
+        box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.05);
+}

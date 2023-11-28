@@ -1,0 +1,3 @@
+.grid_colams_promoter_card{
+        grid-template-columns: repeat(9,1fr);
+}

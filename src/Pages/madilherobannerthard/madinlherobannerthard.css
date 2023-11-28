@@ -1,0 +1,58 @@
+
+.hero_banner_setup{
+        max-width: 540.228px;
+        max-height: 263.154px;
+        flex-shrink: 0;
+        border-radius: 10px;
+    
+
+}
+.madilbanner_thrad {
+        background: var(--bg, #F1F1F1);
+       
+}
+.name_in_new_arrivals_text{
+        color: #FFFFFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.banner_text_setup{
+        color:#FFFFFF;
+font-family: Jacques Francois;
+
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.rilige_description_setup_text{
+
+        color: #FFFFFF;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.banner_btn_setup{
+        border-radius: 10px;
+        background: #FFFFFF;
+        width: 92.104px;
+        height: 30.263px;
+        flex-shrink: 0;
+}
+.btn_text_setup{
+       
+font-family: Inter;
+font-size: 9px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration-color: #000000;
+
+}

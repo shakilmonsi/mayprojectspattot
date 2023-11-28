@@ -1,0 +1,153 @@
+.grid_footer_item {
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	gap: 80px;
+
+}
+
+.pading_option_setup {
+	padding: 40px;
+
+}
+
+.footer_title_text_style {
+	color: #FFF;
+
+	/* 16 semi */
+	font-family: "inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	text-align: start;
+}
+
+.style_to_link_text {
+	color: #FFF;
+
+	/* 14 reg */
+	font-family: "inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+	text-align: start;
+
+}
+
+.apple_playstore_logo {
+	display: flex;
+	padding: 10px 15px 10px 12px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	border-radius: 6px;
+	border: 1px solid #FFF;
+}
+
+.faceBook_logo_setup {
+	width: 16px;
+	height: 16px;
+	border-radius: 500px;
+	border: 1px solid #F1F1F1;
+}
+
+.Instagram_logo_setup {
+	width: 16px;
+	height: 16px;
+}
+
+.email_logo_setup {
+	width: 16px;
+	height: 16px;
+	flex-shrink: 0;
+
+}
+
+.copy_text_style {
+	color: var(--Gray, #717171);
+
+	/* 14 reg */
+	font-family: Inter;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.all_Right_text_tyle {
+	color: var(--Gray, #717171);
+
+	/* 14 reg */
+	font-family: "inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.all_terms_text_tyle {
+	color: var(--Gray, #717171);
+
+	/* 12 reg */
+	font-family: "inter";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.visa_card{
+	width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+.mastercard{
+	display: flex;
+width: 33.846px;
+height: 24px;
+justify-content: center;
+align-items: center;
+}
+.napa_body_style{
+
+padding: 6px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border: 1.5px solid var(--White-U, #F7F6F3);
+background: var(--White, #FFF);
+box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.08);
+}
+.delivery_car{
+	display: flex;
+width: 28px;
+height: 28px;
+justify-content: center;
+align-items: center;
+}
+.delivery_text_style{
+	color: var(--Gray, #717171);
+
+/* 14 reg */
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.pay_body_style{
+	
+padding: 6px;
+justify-content: center;
+align-items: flex-start;
+gap: 10px;
+border-radius: 2px;
+border: 1px solid rgba(42, 42, 42, 0.70);
+}
+.applelogo_style{
+	width: 7.572px;
+	height: 9.306px;
+}

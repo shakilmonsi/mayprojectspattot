@@ -1,0 +1,19 @@
+.ditils_text_style_setup{
+    color: rgba(42, 42, 42, 0.85);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+}
+.over_view_Component_body_setup{
+    max-width: 1757px;
+max-height: 693px;
+flex-shrink: 0;
+    border-radius: 17px;
+background: #F5F7FB;
+}
+.grit_setup_and_list_body{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
