@@ -19,11 +19,11 @@ import green from "../../../../../../../../assets/ElectricCategorypageAllCompome
 
 const ProductTypeSecton = () => {
     return (
-        <div className="" style={{padding:60}}>
+        <div className="row" >
 
 
   
-          <div className="col-lg-3 ">
+          <div className=" " >
             <div>
                  {/* title  section  */}
                 <div className='d-flex justify-content-between '>
@@ -75,7 +75,7 @@ const ProductTypeSecton = () => {
 
             {/* price box  */}
 
-<div className='d-flex ' style={{alignItems:"center",gap:"60px",marginTop:"20px"}}>
+<div className='d-flex ' style={{alignItems:"center",gap:"40px",marginTop:"20px"}}>
     <div>
         <span className='ms-4 '>Min Price</span>
         <input className='input_price_range' value="10"></input>
@@ -569,7 +569,7 @@ const ProductTypeSecton = () => {
        "
              
               type="search"
-              placeholder="Filter by Categories"
+              placeholder="Filter by Color"
               aria-label="Search"
             />
     <span className=" position-absolute  "
@@ -668,7 +668,7 @@ const ProductTypeSecton = () => {
       
       </div>
        {/* product ditils  site setup and  style  */}
-          <div className="col-lg-8">
+          <div className="">
            
       
       jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj

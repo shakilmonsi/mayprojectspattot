@@ -1,0 +1,44 @@
+.list_section_setup {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 6px;
+    border: 1.5px solid var(--Border-v2, rgba(176, 176, 176, 0.15));
+    background: var(--Border-v2, rgba(176, 176, 176, 0.15));
+}
+
+.arrow_button_style_and_setup {
+    width: 127px;
+    height: 35px;
+    padding: 10px;
+    justify-content: flex-end;
+    align-items: center;
+
+    border-radius: 8px;
+    border: 1.5px solid var(--Border, #B0B0B0);
+    background: var(--White-A, #F7F7F7);
+}
+
+/* . accontu_toggel_in_logo_style_setup */
+.accontu_toggel_in_logo_style_product_Type {
+    display: flex;
+    padding: 9px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1.5px solid var(--Border-v2, rgba(176, 176, 176, 0.15));
+}
+.grid_text_style_setup{
+    color: var(--Gray, #717171);
+
+/* 12 med */
+font-family: "Inter";
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+color: #717171;
+}
