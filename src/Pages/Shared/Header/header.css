@@ -79,12 +79,12 @@ align-items: center;
 }
 
 
-
+/* 
 .card img {
   max-width: 100%;
   height: auto;
   border-radius: 50%;
-}
+} */
 .card button{
   width: 60px;
   font-size: small;

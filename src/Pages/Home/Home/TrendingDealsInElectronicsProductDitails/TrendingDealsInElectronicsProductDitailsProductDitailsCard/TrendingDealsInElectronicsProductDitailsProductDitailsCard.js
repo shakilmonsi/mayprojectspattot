@@ -10,7 +10,7 @@ const TrendingDealsInElectronicsProductDitailsProductDitailsCard = ({ service })
 
 
     <div
-      className="  shadow-sm"
+      className="card  shadow-sm"
       style={{
         width: "266px", height: "407px", flexShrink: 0, borderRadius:
           "10px", border: "none", backgroundColor: "#FFF", boxShadow: "0.1px 0.1px 0.1px 0.1px rgba(0, 0, 0, 0.1)"

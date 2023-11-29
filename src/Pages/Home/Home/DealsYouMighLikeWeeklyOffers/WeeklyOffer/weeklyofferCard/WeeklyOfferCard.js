@@ -5,7 +5,7 @@ const WeeklyOfferCard=({service})=> {
 
         return (
                 <div
-                className="shadow-lg-1 tanding_product_card_setup" style={{border:"none",}}>
+                className="card shadow-lg-1 tanding_product_card_setup" style={{border:"none",}}>
               
 
                 {/* style={{boxShadow:"px 10px 10px 10px rgba(0, 0, 0, 0.1)"}} */}
